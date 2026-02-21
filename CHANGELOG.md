@@ -2,6 +2,10 @@
 
 All notable changes to `nova-tags-field` will be documented in this file
 
+## 5.0.1 - 2026-02-21
+
+Add Laravel 13 support
+
 ## 5.0.0 - 2024-12-23
 
 ### What's Changed
