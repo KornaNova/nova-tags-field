@@ -2,6 +2,14 @@
 
 All notable changes to `nova-tags-field` will be documented in this file
 
+## 5.0.2 - 2026-02-23
+
+### What's Changed
+
+* Revert asset loading from Nova::mix() to Nova::script() by @freekmurze in https://github.com/spatie/nova-tags-field/pull/190
+
+**Full Changelog**: https://github.com/spatie/nova-tags-field/compare/5.0.1...5.0.2
+
 ## 5.0.1 - 2026-02-21
 
 Add Laravel 13 support
